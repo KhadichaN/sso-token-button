@@ -13,7 +13,7 @@
     "supportRepeat": true,
     "canCrossLayoutBoundary": true,
     "coverLayoutBackground": true,
-    "hasBuilderSupportModule": true
+    "hasBuilderSupportModule": false
   },
   "extensions": [
     {
